@@ -1,6 +1,7 @@
 import React from "react"
 import "./Animals.css"
 import { Link } from "react-router-dom"
+//cool stuff
 
 export default ({ animal }) => (
     <section className="animal">
